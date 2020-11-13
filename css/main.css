@@ -1,0 +1,237 @@
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+body {
+    margin: 20px;
+    background-color: hsl(210, 46%, 95%);
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+img {
+    border-radius: 100%;
+}
+
+header, div img {
+    float: left;
+    color: #fff;
+    margin-bottom: 20px;
+    margin-right: 10px;
+    
+}
+
+
+
+header h3 {
+    color: rgba(255, 255, 255, 50%);
+}
+p.introd {
+    clear:left;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    margin: 15px 0;
+    font-size: 22px;
+    line-height: 1.2em;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: absolute;
+    top: 15%;
+}
+
+p.introj {
+    clear:left;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    margin: 15px 0;
+    font-size: 22px;
+    line-height: 1.2em;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: absolute;
+    top: 25%;
+}
+
+p.introa {
+    clear:left;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    margin: 15px 0;
+    font-size: 22px;
+    line-height: 1.2em;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: absolute;
+    top: 20%;
+}
+
+p.intro1 {
+    clear:left;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    margin: 15px 0;
+    font-size: 24px;
+    line-height: 1.2em;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: absolute;
+    top: 27%;
+}
+
+p.reviewd {
+    color: rgba(255, 255, 255, 70%);
+    line-height: 1.2em;
+    position: absolute;
+    top: 58%;
+}
+
+p.reviewa {
+    color: rgba(255, 255, 255, 70%);
+    line-height: 1.2em;
+    position: absolute;
+    top: 64%;
+}
+
+p.reviewj {
+    color: rgba(255, 255, 255, 70%);
+    line-height: 1.2em;
+    position: absolute;
+    top: 64%;
+}
+
+
+
+p.review1 {
+    color: rgba(255, 255, 255, 70%);
+    line-height: 1.2em;
+    position: absolute;
+    top: 62%
+}
+/***daniel***/
+#daniel {
+    width: 95%;
+    background: url("../images/bg-pattern-quotation.svg") no-repeat 80% 2% hsl(263, 55%, 52%);
+    border-radius: 5px;
+    padding: 20px;
+    margin: 30px 5% 20px 5%;
+    position: relative;
+    height: 450px;
+
+}
+/****Jonathan****/
+#jonathan {
+    width: 95%;
+    height: 250px;
+    background:hsl(217, 19%, 35%);
+    border-radius: 5px;
+    padding: 20px;
+    margin: 30px 5% 20px 5%;
+    position: relative;
+
+}
+/***Harmon****/
+#jeanette {
+    width: 95%;
+    height: 250px;
+    background:#fff;
+    border-radius: 5px;
+    padding: 20px;
+    margin: 30px 5% 20px 5%;
+    color: hsl(217, 19%, 35%);
+    position: relative;
+    
+}
+
+header h2.kira {
+    color: hsl(217, 19%, 35%);
+}
+
+header h3.kira {
+    color: rgba(72, 85, 106, 50%)
+}
+
+p.jintro {
+    color: rgb(72, 85, 106,);
+    font-weight: bold;
+    margin: 15px 0;
+    font-size: 20px;
+    line-height: 1.2em;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: absolute;
+    top: 15%;
+}
+#clear {
+    clear: left;
+}
+p.kira {
+    color: rgba(72, 85, 106, 70%);
+    padding: 1px;
+}
+
+/****Patrick****/
+#patrick {
+    width: 95%;
+    height: 400px;
+    background:hsl(219, 29%, 14%);
+    border-radius: 5px;
+    padding: 20px;
+    margin: 30px 5% 20px 5%;
+    position: relative;
+
+}
+
+
+/***Kira****/
+#kira {
+    width: 95%;
+    height: 500px;
+    background:#fff;
+    border-radius: 5px;
+    padding: 20px;
+    margin: 30px 5% 20px 5%;
+    color: hsl(217, 19%, 35%);
+    position:  relative;
+}
+
+header h1.kira {
+    color: hsl(217, 19%, 35%);
+}
+
+header h3.kira {
+    color: rgba(72, 85, 106, 50%)
+}
+
+p.jintro {
+    color: rgb(72, 85, 106,);
+    font-weight: bold;
+    margin: 15px 0;
+    font-size: 22px;
+    line-height: 1.2em;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: absolute;
+    top: 30%;
+}
+
+p.jintro1 {
+    color: rgb(72, 85, 106,);
+    font-weight: bold;
+    margin: 15px 0;
+    font-size: 22px;
+    line-height: 1.2em;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: absolute;
+    top: 20%;
+}
+
+
+p.kira {
+    color: rgba(72, 85, 106, 70%);
+    line-height: 1.2em;
+    position: absolute;
+    top: 65%;
+}
+
+p.kira1 {
+    color: rgba(72, 85, 106, 70%);
+    line-height: 1.2em;
+    position: absolute;
+    top: 40%;
+}

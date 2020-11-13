@@ -1,0 +1,269 @@
+/****Mobile****/
+@media screen and (max-width: 768px) {
+    #daniel {
+        width: 95%;
+        background: url("../images/bg-pattern-quotation.svg") no-repeat 80% 2% hsl(263, 55%, 52%);
+        border-radius: 5px;
+        padding: 20px;
+        margin: 30px 5% 20px 5%;
+        position: relative;
+        height: 450px;
+    
+    }
+    /****Jonathan****/
+    #jonathan {
+        width: 95%;
+        height: 250px;
+        background:hsl(217, 19%, 35%);
+        border-radius: 5px;
+        padding: 20px;
+        margin: 30px 5% 20px 5%;
+        position: relative;
+    
+    }
+    /***Harmon****/
+    #jeanette {
+        width: 95%;
+        height: 250px;
+        background:#fff;
+        border-radius: 5px;
+        padding: 20px;
+        margin: 30px 5% 20px 5%;
+        color: hsl(217, 19%, 35%);
+        position: relative;
+        
+    }
+    
+/****Patrick****/
+#patrick {
+    width: 95%;
+    height: 400px;
+    background:hsl(219, 29%, 14%);
+    border-radius: 5px;
+    padding: 20px;
+    margin: 30px 5% 20px 5%;
+    position: relative;
+
+}
+
+
+/***Kira****/
+#kira {
+    width: 95%;
+    height: 500px;
+    background:#fff;
+    border-radius: 5px;
+    padding: 20px;
+    margin: 30px 5% 20px 5%;
+    color: hsl(217, 19%, 35%);
+    position:  relative;
+}
+
+    
+
+}
+
+@media screen and (min-width: 769px) and (max-width: 1199px) {
+
+}
+
+@media screen and (min-width: 1200px) {
+    .green {
+        float: left;
+        width: 70%;
+        margin-right: 20px;
+    }
+    p.introd {
+        clear:left;
+        color: rgb(255, 255, 255);
+        font-weight: bold;
+        margin: 15px 0;
+        font-size: 22px;
+        line-height: 1.2em;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        position: absolute;
+        top: 20%;
+    }
+
+    p.introd {
+        clear:left;
+        color: rgb(255, 255, 255);
+        font-weight: bold;
+        margin-top: 15px;
+        margin-bottom: 24px;
+        font-size: 22px;
+        padding: 2px;
+        line-height: 1.2em;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        position: absolute;
+        top: 20%;
+    }
+    
+    p.reviewj {
+        color: rgba(255, 255, 255, 70%);
+        line-height: 1.4em;
+        position: absolute;
+        top: 50%;
+    }
+
+   /****Jonathan****/
+   #jonathan {
+    width: 36%;
+    height: 350px;
+    background:hsl(217, 19%, 35%);
+    border-radius: 5px;
+    padding: 20px;
+    /*margin: 30px 5% 20px 5%;*/
+    position: relative;
+    top: 35%;
+    float:left;
+    margin-left: 0.5%;
+    margin-right: 0.1%;
+        
+
+    }
+
+    #daniel {
+        width: 61%;
+        background: url("../images/bg-pattern-quotation.svg") no-repeat 80% 2% hsl(263, 55%, 52%);
+        border-radius: 5px;
+        /*padding: 20px;*/
+        /*margin: 30px 5% 20px 5%;*/
+        position: relative;
+        top: 35%;
+        height: 350px;
+        margin-left: 1%;
+        margin-right: 1%;
+        line-height: 1.2em;
+        float: left;
+    
+    }
+
+    
+    
+
+    p.introj {
+        clear:left;
+        color: rgb(255, 255, 255);
+        font-weight: bold;
+        margin-top: 15px;
+        margin-bottom: 20px;
+        font-size: 20px;
+        padding: 2px;
+        line-height: 1.2em;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        position: absolute;
+        top: 20%;
+        
+    }
+    
+
+
+ 
+    
+
+    p.reviewd {
+        color: rgba(255, 255, 255, 70%);
+        line-height: 1.2em;
+        position: absolute;
+        top: 60%;
+    }
+
+    #kira {
+        width: 27%;
+        float: left;
+        height: 601px;
+        background:#fff;
+        border-radius: 5px;
+        padding: 20px;
+        margin-right: 1%;
+        margin-left: 0;
+        color: hsl(217, 19%, 35%);
+        position: relative;
+        top: 45%;
+        right: 0;
+        
+    }
+
+    #jeanette {
+        width: 35%;
+        height:350px;
+        background:#fff;
+        border-radius: 5px;
+        padding: 20px;
+        color: hsl(217, 19%, 35%);
+        position: relative;
+        float: left;
+        margin-left: 0.5%;
+        margin-right: 0.5%;
+        line-height: 1.5em;
+        margin-top: 0.5%;
+
+        
+    }
+
+    p.jintro {
+        color: rgb(72, 85, 106,);
+        font-weight: bold;
+        margin: 15px 0;
+        font-size: 22px;
+        line-height: 1.5em;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        position: absolute;
+        top: 27%;
+    }
+    
+
+    p.jintro1 {
+        color: rgb(72, 85, 106,);
+        font-weight: bold;
+        margin: -6px 0;
+        font-size: 22px;
+        line-height: 1.3em;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        position: absolute;
+        top: 20%;
+    }
+
+    p.kira1 {
+        color: rgba(72, 85, 106, 70%);
+        line-height: 1.2em;
+        position: absolute;
+        top: 40%;
+        padding: 3px;
+    }
+
+    #patrick {
+        width: 61.5%;
+        height:350px;
+        background:hsl(219, 29%, 14%);
+        border-radius: 5px;
+        padding: 20px;
+        margin-right: 0;
+        margin-left: 1%;
+        margin-top: 0.5%;
+        position: relative;
+        top: 50%;
+        float: left;
+    
+    }
+
+    .green::after {
+        content: "";
+        clear: both;
+        display: block;
+
+    }
+    
+    .red::after {
+        content: "";
+        clear: both;
+        display: block;
+    }
+    
+    
+    
+    
+    
+
+}
